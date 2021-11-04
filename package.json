@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
-    "hydrate:frontend":"cd ./frontend && npm i",
+    "frontend":"cd ./frontend && npm i",
     "build:frontend":"cp ./src/next-handler/index.js ./dist && cd ./frontend && npm run build"
   },
   "author": "",

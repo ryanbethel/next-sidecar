@@ -4,4 +4,4 @@ next-SSR
 @http
 /*
   method get
-  src begin
+  src dist
